@@ -1,10 +1,10 @@
 yfinance
- pandas 
- numpy 
- matplotlib 
- seaborn 
- plotly 
- scikit-learn 
- streamlit
-  keras 
+pandas 
+numpy 
+matplotlib 
+seaborn 
+plotly 
+scikit-learn 
+streamlit
+keras 
 tensorflow
